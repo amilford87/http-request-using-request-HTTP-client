@@ -1,0 +1,22 @@
+{
+  "name": "http-requests",
+  "version": "1.0.0",
+  "description": "making HTTP requests using the request HTTP client exercise for Lighthouse Labs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/amilford87/http-request-using-request-HTTP-client.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amilford87/http-request-using-request-HTTP-client/issues"
+  },
+  "homepage": "https://github.com/amilford87/http-request-using-request-HTTP-client#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
